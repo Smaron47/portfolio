@@ -13,7 +13,7 @@ Programming Languages
 
 Python
 
-JavaScript / TypeScript
+JavaScript / TypeScript  
 
 SQL
 
